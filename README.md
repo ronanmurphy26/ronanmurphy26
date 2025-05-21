@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
      </a>
-     <a href="https://t.me/apollo_0206">
+     <a href="https://t.me/rudyapollo_0512">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
